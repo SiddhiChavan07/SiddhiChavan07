@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**SiddhiChavan07/SiddhiChavan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there! I'm Siddhi Chavan</h1>
 
-Here are some ideas to get you started:
+<h3>
+  
+- I’m currently pursuing MCA from MIT-WPU pune.
+- I’m currently learning Web Development, Cloud Computing & DevOps.
+- I like working on languages like java & python.
+</h3>
+<br />
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h1 align="center">Get in touch 
+<br />
+<br>
+
+[<img align="center" alt="RohiniRG | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="center" alt="RohiniRG | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
+</h1>
+
+
+[linkedin]: https://www.linkedin.com/in/siddhi-chavan-152963223/
+[gmail]: siddhic24@gmail.com
+
+<br /> 

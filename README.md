@@ -4,8 +4,7 @@
 <h3>
   
 - I’m currently pursuing MCA from MIT-WPU pune.
-- I’m currently learning Web Development, Cloud Computing & DevOps.
-- I like working on languages like java & python.
+- I like working on languages like java,php & python.
 </h3>
 <br />
 <br>
